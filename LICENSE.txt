@@ -1,0 +1,1 @@
+PyDocX - Python Documentation eXtractor with Interactive Features © 2024 by Vedansh Pandey is licensed under CC BY 4.0 
