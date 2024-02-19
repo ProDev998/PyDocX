@@ -16,7 +16,7 @@ PyDocX is a Python library designed to automate the generation of dynamic and in
 
 This is how to import and use the library. Its a basic example code.
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
         import pydocx  # Replace with your module name
         generator = DocumentationGenerator(my_module)
         generator.display_documentation()
